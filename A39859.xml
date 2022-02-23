@@ -1,0 +1,1399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relacam das festas de palacio,egrandesas de Londres dedicada amagestade da serenissima rainha da Gran Bretanha / pelo P. Sebastiaõ da Fonseca capellaõ na sue real capella, mestre, e presidente em o ospital real de todos os sanctos na ciudade de Lixboa.</title>
+            <author>Fonseca, Sebastião da, 1625-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39859</idno>
+            <idno type="STC">Wing F1405A</idno>
+            <idno type="STC">ESTC R30459</idno>
+            <idno type="EEBO-CITATION">11323637</idno>
+            <idno type="OCLC">ocm 11323637</idno>
+            <idno type="VID">47464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Relacam das festas de palacio,egrandesas de Londres dedicada amagestade da serenissima rainha da Gran Bretanha / pelo P. Sebastiaõ da Fonseca capellaõ na sue real capella, mestre, e presidente em o ospital real de todos os sanctos na ciudade de Lixboa.</title>
+                  <author>Fonseca, Sebastião da, 1625-1705.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Na officina de J. Martin, Ja. Allestry, &amp; Tho. Dicas,</publisher>
+                  <pubPlace>Londres :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="por">por</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="por">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47464:1"/>
+            <pb facs="tcp:47464:1"/>
+            <p>RELAÇAM Das feſtas de Palacio, egrandeſas de Londres, DEDICADA Amageſtade da ſereniſsima RAINHA DA GRAN BRETANHA.</p>
+            <p>
+               <hi>Pelo P. Sebaſtiao<g ref="char:cmbAbbrStroke">̄</g> da Fonſeca Capellao<g ref="char:cmbAbbrStroke">̄</g> na ſua Real Capella, Meſtre, e Preſi<g ref="char:EOLhyphen"/>dente em o Oſpital Real de todos os Sanctos na cidade de</hi> LIXBOA.</p>
+            <p>
+               <hi>LONDRES,</hi> Na Officina de <hi>J. Martin, Ja. Alleſtry,</hi> &amp; <hi>Tho. Dicas,</hi> Anno 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:47464:2"/>
+            <pb n="3" facs="tcp:47464:2"/>
+            <head>Prologo e Dedicatoria.</head>
+            <lg>
+               <l>BEm pudereis vosja agera</l>
+               <l>muſa minha ter chegado</l>
+               <l>que para tantas grandeſas</l>
+               <l>bem ſabeis que ſo nao<g ref="char:cmbAbbrStroke">̄</g> baſto</l>
+            </lg>
+            <lg>
+               <l>Ia das voſſas dilaçoens</l>
+               <l>ſe ofendera omeu cuidado</l>
+               <l>ſedellas nao<g ref="char:cmbAbbrStroke">̄</g> conciguira</l>
+               <l>de ſculpa para erros tantos</l>
+            </lg>
+            <lg>
+               <l>Porem ſe oque he prometido</l>
+               <l>he divida executallo</l>
+               <l>os acredores (ſem vos)</l>
+               <l>nao<g ref="char:cmbAbbrStroke">̄</g> me tem por abonado</l>
+            </lg>
+            <lg>
+               <l>Antes co<g ref="char:cmbAbbrStroke">̄</g> voſſa licença</l>
+               <l>quiſera todo o Parnaſo</l>
+               <l>porque talues pode auer</l>
+               <l>madamas muſas no rancho</l>
+            </lg>
+            <lg>
+               <l>Nao<g ref="char:cmbAbbrStroke">̄</g> vos enojeis ſenhora;</l>
+               <l>poſto em ſemelhantes caſos</l>
+               <l>mais val teruos ofendido</l>
+               <l>que o credito profanado</l>
+            </lg>
+            <lg>
+               <l>Venha eſſa muſal nouena</l>
+               <l>afaſer eſte retrato</l>
+               <l>que nao<g ref="char:cmbAbbrStroke">̄</g> podem faltar cores</l>
+               <l>donde aſiſte Apollo, e Baco</l>
+            </lg>
+            <lg>
+               <l>Comeſſe apintar grandeſas</l>
+               <l>quem tem debuxo tao<g ref="char:cmbAbbrStroke">̄</g> raro</l>
+               <l>edai vos muſa os pinſeis</l>
+               <l>ja que da londres opano</l>
+            </lg>
+            <lg>
+               <l>Eâ quella eſtrella do Norte</l>
+               <l>dedicareis eſte quadro</l>
+               <l>perque veja oque domina</l>
+               <l>e eu conheça oque alcanço.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:47464:3"/>
+            <head>
+               <hi>Feſtas De Pallacio</hi> egrandeſas de LONDRES.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">P</seg>Ara feſtejar odia,</l>
+               <l>emque o planeta dou<g ref="char:EOLhyphen"/>rado</l>
+               <l>fahio dous quartos mais cedo</l>
+               <l>por entrar nos de Pallacio</l>
+            </lg>
+            <lg>
+               <l>(Que como Rey dos Planetas</l>
+               <l>entrou dentro aveſitallos</l>
+               <l>eem todo o caſo odevia</l>
+               <l>antes de chegar ao Ocaſo)</l>
+            </lg>
+            <lg>
+               <l>Tocarao<g ref="char:cmbAbbrStroke">̄</g> reais clarins</l>
+               <l>acujo ſon doce ebrando</l>
+               <l>huns chegao<g ref="char:cmbAbbrStroke">̄</g> de curioſos</l>
+               <l>outros chegao<g ref="char:cmbAbbrStroke">̄</g> de obrigados</l>
+            </lg>
+            <lg>
+               <l>Embreves horas ſevio</l>
+               <l>o Paço tao<g ref="char:cmbAbbrStroke">̄</g> pouoado</l>
+               <l>que no Paço nao<g ref="char:cmbAbbrStroke">̄</g> auia</l>
+               <l>lugar para dar hu<g ref="char:cmbAbbrStroke">̄</g> paço</l>
+            </lg>
+            <lg>
+               <l>Eſtauao<g ref="char:cmbAbbrStroke">̄</g> as ſalas todas</l>
+               <l>armadas de ricos panos</l>
+               <l>poſto os armados, nas portas</l>
+               <l>alguns dauao<g ref="char:cmbAbbrStroke">̄</g> bem baratos</l>
+            </lg>
+            <lg>
+               <l>Acada porta ſe ouuia</l>
+               <l>as queixas dos mal tratados</l>
+               <l>porſer a alabarda muita</l>
+               <l>ſem ſer da priſao<g ref="char:cmbAbbrStroke">̄</g> opaço</l>
+            </lg>
+            <lg>
+               <l>Nao<g ref="char:cmbAbbrStroke">̄</g> entrarao<g ref="char:cmbAbbrStroke">̄</g> liſongeiros,</l>
+               <l>impertinentes entrarao<g ref="char:cmbAbbrStroke">̄</g>,</l>
+               <l>aquelles por fallar muito,</l>
+               <l>eſtes por nao<g ref="char:cmbAbbrStroke">̄</g> fallar tanto</l>
+            </lg>
+            <lg>
+               <l>Que como avia comedia</l>
+               <l>queriao<g ref="char:cmbAbbrStroke">̄</g> foſſe eſcuſado</l>
+               <l>motiuar que ſe pediſſe</l>
+               <l>oque ſo ſedâ callando</l>
+            </lg>
+            <lg>
+               <l>Sahirao<g ref="char:cmbAbbrStroke">̄</g> as Mageſtades</l>
+               <l>atempo que no tablado</l>
+               <l>quatro choros de inſtromentos</l>
+               <l>oouuir liſongeauao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Vinha matando de amores</l>
+               <l>aquelle pique dos Aſtros</l>
+               <l>aquelle mate das luſes</l>
+               <l>edo mundo aquelle paſmo</l>
+            </lg>
+            <lg>
+               <l>Pella mao<g ref="char:cmbAbbrStroke">̄</g> vinha de Febo</l>
+               <l>aquelle luſido rayo</l>
+               <l>aquelle real planeta</l>
+               <l>e quelle Adonis galhardo</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:47464:3"/>
+               <l>Lux a lux ſe deſafiao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>os mais alinhoſos garbos</l>
+               <l>que ſempre obello ſepica</l>
+               <l>quando olindo ſae acampo</l>
+            </lg>
+            <lg>
+               <l>Alentada a fermoſura</l>
+               <l>donoſos rayos vibrando</l>
+               <l>cada tiro he hu<g ref="char:cmbAbbrStroke">̄</g> deſtroço</l>
+               <l>e cada golpe hu<g ref="char:cmbAbbrStroke">̄</g> eſtrago</l>
+            </lg>
+            <lg>
+               <l>Feridos os coraçoens</l>
+               <l>ſuas ditas pregoauao<g ref="char:cmbAbbrStroke">̄</g>,</l>
+               <l>que quem morre por ſeu goſto</l>
+               <l>nao<g ref="char:cmbAbbrStroke">̄</g> pode acabar callando</l>
+            </lg>
+            <lg>
+               <l>Morriao<g ref="char:cmbAbbrStroke">̄</g> por darlhe as vidas</l>
+               <l>quando mil vinas lhe dauao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>epeſſuindo tao<g ref="char:cmbAbbrStroke">̄</g> pouco</l>
+               <l>muito foi poder dar tanto</l>
+            </lg>
+            <lg>
+               <l>Sentarao<g ref="char:cmbAbbrStroke">̄</g>ſſe os dous Luſeiros;</l>
+               <l>eo ſemilher do tablado</l>
+               <l>correo a cortina, atempo</l>
+               <l>que ſahio Venus bailando</l>
+            </lg>
+            <lg>
+               <l>Fes mudanças muito lindas,</l>
+               <l>ſe pode ſer lindo ovario,</l>
+               <l>que ſemgre profana o firme</l>
+               <l>quem he comun nos agrados</l>
+            </lg>
+            <lg>
+               <l>Acabouſſe a dança ingleſa</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> muchiſsimos aplauſos,</l>
+               <l>quando ſeis Deuſes ſahirao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> hua<g ref="char:cmbAbbrStroke">̄</g> dama nos braços.</l>
+            </lg>
+            <lg>
+               <l>Imaginei ſer a Ninfa</l>
+               <l> Apollo encontrou no campo,</l>
+               <l>outros cuidando hera Europa</l>
+               <l>otouro os tinha aſuſtado.</l>
+            </lg>
+            <lg>
+               <l>Hera oveſtido de fumo</l>
+               <l>porem de lama por baixo</l>
+               <l>de rendas bem guarnecido</l>
+               <l>de caſas mui adornado</l>
+            </lg>
+            <lg>
+               <l>Em aneis todo o cabello</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> dous de dos de eſtanhado</l>
+               <l>eo collo tao<g ref="char:cmbAbbrStroke">̄</g> ſenhoril</l>
+               <l>que mataua degollando</l>
+            </lg>
+            <lg>
+               <l>Auolta co<g ref="char:cmbAbbrStroke">̄</g> tantas rendas</l>
+               <l>que parecia morgado</l>
+               <l>ſem direito peſſuido</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> tramoyas alcançado</l>
+            </lg>
+            <lg>
+               <l>Opeitilho de perdis</l>
+               <l>tao<g ref="char:cmbAbbrStroke">̄</g> comeſinho, que os braços</l>
+               <l>ja de ſeu garbo perdidos</l>
+               <l>ſahiao<g ref="char:cmbAbbrStroke">̄</g> auiſitallo</l>
+            </lg>
+            <lg>
+               <l>As roupas tao<g ref="char:cmbAbbrStroke">̄</g> mageſtoſas</l>
+               <l>que os aforros de brocado</l>
+               <l>as ſoletas beijao<g ref="char:cmbAbbrStroke">̄</g>, que</l>
+               <l>leua oſapato araſtrando</l>
+            </lg>
+            <lg>
+               <l>Trouxe Apollo de lemiſte</l>
+               <l>roupao<g ref="char:cmbAbbrStroke">̄</g>, como cathedratico</l>
+               <l>que por ver luſes mayores</l>
+               <l>veſtirao<g ref="char:cmbAbbrStroke">̄</g> capus ſeus rayos</l>
+            </lg>
+            <lg>
+               <l>De armas brancas inuenciueis</l>
+               <l>vinha Marte todo armado</l>
+               <l>que he neſſeçario defença</l>
+               <l>donde hâ luſimentos tantos</l>
+            </lg>
+            <lg>
+               <l>Neptuno de conchas toſcas</l>
+               <l>eſcudos fes para os braços</l>
+               <l>que contra tantos ardores</l>
+               <l>he ſeu reino limitado</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:47464:4"/>
+               <l>Saturno de muito cego</l>
+               <l>ſahio bem mal encarado,</l>
+               <l>porque he eſcudo hu<g ref="char:cmbAbbrStroke">̄</g> ſemblante</l>
+               <l>quando ſente auiſta aſaltos,</l>
+            </lg>
+            <lg>
+               <l>Mercurio ſo fes negocio</l>
+               <l>em ſe meter pelos rayos.</l>
+               <l>que por vallerſſe das luſes</l>
+               <l>tirou dos tratos, contratos,</l>
+            </lg>
+            <lg>
+               <l>Baco ſomente cahio</l>
+               <l>porque ja vinha aſombrado;</l>
+               <l>vinha, donde procedeu</l>
+               <l>ver os rayos duplicados</l>
+            </lg>
+            <lg>
+               <l>Embraços traſia<g ref="char:cmbAbbrStroke">̄</g>o Londres</l>
+               <l>que cançada de trabalhos</l>
+               <l>dar paſſada nao<g ref="char:cmbAbbrStroke">̄</g> podia</l>
+               <l>porque pode co<g ref="char:cmbAbbrStroke">̄</g> opaſſado</l>
+            </lg>
+            <lg>
+               <l>Fallou deſta ſorte a dama</l>
+               <l>tendo a venia ja tomado</l>
+               <l>que he mao<g ref="char:cmbAbbrStroke">̄</g> ſempre a corteſia</l>
+               <l>de quem quer ſahir ganhando</l>
+            </lg>
+            <lg>
+               <l>Euſou (Monarchas ditoſos)</l>
+               <l>Londres, que no dilatado</l>
+               <l>ſome iguala ograndioſo</l>
+               <l>do que ſou edo que valho</l>
+            </lg>
+            <lg>
+               <l>Voſſas auſencias chorei</l>
+               <l>echeguei a ſentir tanto</l>
+               <l>que foy tributaria ao rio</l>
+               <l>ſendo elle ami tributario</l>
+            </lg>
+            <lg>
+               <l>Ja tiue oprimeiro logro</l>
+               <l>agora oſegundo canto</l>
+               <l>aquelle porſer fellice</l>
+               <l>eſte porſer ſoberano</l>
+            </lg>
+            <lg>
+               <l>Eja no logro das ditas</l>
+               <l>que anhelaua meu cuidado</l>
+               <l>proſtrada uos ofereço</l>
+               <l>tudo quanto banha o Tamaſo</l>
+            </lg>
+            <lg>
+               <l>Eporque conuallecente</l>
+               <l>metem peſares paſſados</l>
+               <l>eſſes Deuſes vos repitao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>o que eu por grandeſa callo.</l>
+            </lg>
+            <lg>
+               <l>Apollo que hera oprimeiro</l>
+               <l>tomou tom, baixo algu<g ref="char:cmbAbbrStroke">̄</g> tanto</l>
+               <l>mas levantando deponto</l>
+               <l>diſſe aſim, ſeuero, i ſabio</l>
+            </lg>
+            <lg>
+               <l>Neſsa, donde paſſageiro</l>
+               <l>uiuo gran parte do anno,</l>
+               <l>porque tais fumos lhe aſiſtem</l>
+               <l>que fas burla dos meus rayos</l>
+            </lg>
+            <lg>
+               <l>Enſigno co<g ref="char:cmbAbbrStroke">̄</g> tal affecto</l>
+               <l>eaſiſto co<g ref="char:cmbAbbrStroke">̄</g> tal cuidado</l>
+               <l>que ſequeixao<g ref="char:cmbAbbrStroke">̄</g> minhas luſes</l>
+               <l>deque as outras luſao<g ref="char:cmbAbbrStroke">̄</g> tanto</l>
+            </lg>
+            <lg>
+               <l>Multipliquei tanto as letras</l>
+               <l>neſte pais, que cifrando</l>
+               <l>nos outros tudo oque poſſo</l>
+               <l>neſte aqui cifro oque valho</l>
+            </lg>
+            <lg>
+               <l>Aqui pode de direito</l>
+               <l>ler cadeira hu<g ref="char:cmbAbbrStroke">̄</g> corcouado</l>
+               <l>de medecina hu<g ref="char:cmbAbbrStroke">̄</g> verdugo</l>
+               <l>de eſtadiſta hu<g ref="char:cmbAbbrStroke">̄</g> mentecapto,</l>
+            </lg>
+            <lg>
+               <l>Digao<g ref="char:cmbAbbrStroke">̄</g> todos os collegios</l>
+               <l>quantos de ſi tem lançado</l>
+               <l>para as leis, quantos ſem ella</l>
+               <l>e para omais digao<g ref="char:cmbAbbrStroke">̄</g> quantos</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:47464:4"/>
+               <l>Os templos ſao<g ref="char:cmbAbbrStroke">̄</g> marauilha</l>
+               <l>de quantos ha no criado,</l>
+               <l>Eismiſter no mageſtoſo</l>
+               <l>no grandioſo ſao<g ref="char:cmbAbbrStroke">̄</g> Paullo</l>
+            </lg>
+            <lg>
+               <l>Nao<g ref="char:cmbAbbrStroke">̄</g> ſerâ bem que nomee</l>
+               <l>os mais, porque numerallos,</l>
+               <l>fora contar minhas luſes</l>
+               <l>efora medir meus rayos</l>
+            </lg>
+            <lg>
+               <l>Somente aqui pintarei</l>
+               <l>eſtes dous que ei nomeado</l>
+               <l>pedindo aſua grandeſa</l>
+               <l>perdao<g ref="char:cmbAbbrStroke">̄</g> de atreuerme a tanto</l>
+            </lg>
+            <lg>
+               <l>Eismiſter que hera ſao<g ref="char:cmbAbbrStroke">̄</g> Bento</l>
+               <l>quando ſugeito ao Romano</l>
+               <l>va emprimeiro lugar</l>
+               <l>e eſpere hu<g ref="char:cmbAbbrStroke">̄</g> pouco ſao<g ref="char:cmbAbbrStroke">̄</g> Paullo</l>
+            </lg>
+            <lg>
+               <l>He tao<g ref="char:cmbAbbrStroke">̄</g> largo odito templo</l>
+               <l>que pudera (enao<g ref="char:cmbAbbrStroke">̄</g> me alargo)</l>
+               <l>ſer cada naue das ſuas</l>
+               <l>hu<g ref="char:cmbAbbrStroke">̄</g>a flota no Oceano</l>
+            </lg>
+            <lg>
+               <l>Tao<g ref="char:cmbAbbrStroke">̄</g> comprido he que apenas</l>
+               <l>auiſta pode alcançallo,</l>
+               <l>bem he tenha comprimentos</l>
+               <l>quem he dos Reis viſitado</l>
+            </lg>
+            <lg>
+               <l>Aqui os anteceſſores</l>
+               <l>de uoſso fellice eſtado</l>
+               <l>como Reis tem ſepultura</l>
+               <l>eos mais delles como ſanctos</l>
+            </lg>
+            <lg>
+               <l>Eaſim todos os Londrinos</l>
+               <l>enterro dos Reis lhe chamao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>adonde nafama, he certo</l>
+               <l>viuem immortaliſados</l>
+            </lg>
+            <lg>
+               <l>Eporque pode o fenderſse</l>
+               <l>ſao<g ref="char:cmbAbbrStroke">̄</g> Paullo de eſperar tanto</l>
+               <l>ſabey que ſao<g ref="char:cmbAbbrStroke">̄</g> Pedro em Roma</l>
+               <l>iguala em Londres ſao<g ref="char:cmbAbbrStroke">̄</g> Paullo</l>
+            </lg>
+            <lg>
+               <l>Hetao<g ref="char:cmbAbbrStroke">̄</g> Mageſtoſo templo</l>
+               <l>que por grande edilatado</l>
+               <l>eu que ſou omeſmo ſol</l>
+               <l>para over giro mais largo</l>
+            </lg>
+            <lg>
+               <l>Tao<g ref="char:cmbAbbrStroke">̄</g> alto he, que oveſitao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>meus rayos, antes que naçao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>etao<g ref="char:cmbAbbrStroke">̄</g> comprido, que pode</l>
+               <l>ſer meu Oriente, e Ocaſo</l>
+            </lg>
+            <lg>
+               <l>Tem tao<g ref="char:cmbAbbrStroke">̄</g> altiua hu<g ref="char:cmbAbbrStroke">̄</g>a torre</l>
+               <l>que podiao<g ref="char:cmbAbbrStroke">̄</g> ſeruir de Aſtros</l>
+               <l>ſeus ſignos, co<g ref="char:cmbAbbrStroke">̄</g> que as ſeis voſes</l>
+               <l>deſsem todas, repicando</l>
+            </lg>
+            <lg>
+               <l>Eporque Marte ſe ſegue</l>
+               <l>quero recolher meus rayos,</l>
+               <l>que donde eſtao<g ref="char:cmbAbbrStroke">̄</g> uoſsas luſes</l>
+               <l>todo o luſir he preſtado.</l>
+            </lg>
+            <lg>
+               <l>Marte furibundo e fero</l>
+               <l>diſse aſim (pouco inclinado</l>
+               <l>talues da millicia adrede</l>
+               <l>enao<g ref="char:cmbAbbrStroke">̄</g> da mallicia a caſo)</l>
+            </lg>
+            <lg>
+               <l>Eu ſou (co<g ref="char:cmbAbbrStroke">̄</g> licença voſsa)</l>
+               <l>omais temido dequantos</l>
+               <l>eſse emisferico globo</l>
+               <l>ſuſtenta apeſar dos Aſtros</l>
+            </lg>
+            <lg>
+               <l>Marte ſou a quelle aſombro</l>
+               <l>dos Deuſes, aquelle paſmo</l>
+               <l>daguerra, efinalmente</l>
+               <l>o voſso meſtre de campo,</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:47464:5"/>
+               <l>Gouerno vinte mil homens</l>
+               <l>infantes, des de cauallo</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> que guarneceis a corte</l>
+               <l>muros de voſso deſcanço</l>
+            </lg>
+            <lg>
+               <l>Cada cauallo he cometa</l>
+               <l>ehu<g ref="char:cmbAbbrStroke">̄</g> rayo cada ſoldado</l>
+               <l>por iſso uos acompanhao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>porque ſois ſol e elles rayos</l>
+            </lg>
+            <lg>
+               <l>Eaſim decreto hu<g ref="char:cmbAbbrStroke">̄</g>a tropa</l>
+               <l>que entre as carroças de eſtado</l>
+               <l>ſirua de eſcudo â grandeſa</l>
+               <l>e â liſonja de cuidado</l>
+            </lg>
+            <lg>
+               <l>Que como ſois pedra iman</l>
+               <l>e elles traſem peitos de aço</l>
+               <l>atras de uos leuais todos</l>
+               <l>tornandolhe os peitos brandos</l>
+            </lg>
+            <lg>
+               <l>E tanto aſim que hu<g ref="char:cmbAbbrStroke">̄</g>a torre</l>
+               <l>de Leoens, ebichos varios</l>
+               <l>que em Londres tendes, deferas</l>
+               <l>ſetorna<g ref="char:cmbAbbrStroke">̄</g>o cordeiros manços</l>
+            </lg>
+            <lg>
+               <l>Epor quanto quer Neptuno</l>
+               <l>diſer ſeu papel, remato</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> pedir medeis licença</l>
+               <l>para hir defender o campo</l>
+            </lg>
+            <lg>
+               <l>Entrou Neptuno mui frio</l>
+               <l>ediſse a ſim (ta<g ref="char:cmbAbbrStroke">̄</g>o turbado</l>
+               <l>que hu<g ref="char:cmbAbbrStroke">̄</g>a onda ſelhe vinha</l>
+               <l>e outra ſe lhe hia, areado)</l>
+            </lg>
+            <lg>
+               <l>Neptuno ſou de quem ja</l>
+               <l>tendes noticias, por quanto</l>
+               <l>vos ſuſtentei muitas veſes</l>
+               <l>ſobre eſtes hombros cançados</l>
+            </lg>
+            <lg>
+               <l>Atlante foi deſsas luſes</l>
+               <l>Mongibello deſses rayos</l>
+               <l>Etna deſses luſimentos</l>
+               <l>efinalmente Oceano</l>
+            </lg>
+            <lg>
+               <l>Sempre vos guardei reſpeitos</l>
+               <l>ou no Tejo, ou no Tamaſo</l>
+               <l>tributando cada inſtante</l>
+               <l>criſtais a voſsos Pallacios</l>
+            </lg>
+            <lg>
+               <l>Porem ſabei vos aſiſto</l>
+               <l>aqui, co<g ref="char:cmbAbbrStroke">̄</g> cuidado tanto</l>
+               <l>que tributando grandeſas</l>
+               <l>me corro deſer ta<g ref="char:cmbAbbrStroke">̄</g>o parco</l>
+            </lg>
+            <lg>
+               <l>Neſse choro, ou neſse rio</l>
+               <l>que por ſer ta<g ref="char:cmbAbbrStroke">̄</g>o celebrado</l>
+               <l>pode ſer riſo da Aurora</l>
+               <l>pode ſer choro do orualho</l>
+            </lg>
+            <lg>
+               <l>Vos tributo por grandeſa</l>
+               <l>quinſe mil bores fretados</l>
+               <l>as ſumacas ſem contia</l>
+               <l>eſem numero os patachos</l>
+            </lg>
+            <lg>
+               <l>De naos de guerra ſomente</l>
+               <l>coalharſse pode omar alto</l>
+               <l>tanto, que podeis lançar</l>
+               <l>quarenta armadas cada anno</l>
+            </lg>
+            <lg>
+               <l>Na China otoſco diamante</l>
+               <l>na India ogoſtoſo crauo</l>
+               <l>oſino aſucar no Rio</l>
+               <l>no Braſil obom ta baco</l>
+            </lg>
+            <lg>
+               <l>Tudo uos paga pençao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>tudo vos he tributario</l>
+               <l>porque faſeis beneficio</l>
+               <l>de admetir tantos cuidados</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:47464:5"/>
+               <l>Epara mayor grandeſa</l>
+               <l>tem meucapricho ordenado,</l>
+               <l>que ſuba â corte eſſe rio</l>
+               <l>eſſe reparta por canos</l>
+            </lg>
+            <lg>
+               <l>Para que toda acidade</l>
+               <l>tenha para o comu<g ref="char:cmbAbbrStroke">̄</g> gaſto</l>
+               <l>em ſua caſa hu<g ref="char:cmbAbbrStroke">̄</g>a fonte</l>
+               <l>por donde purgue odeſcanço</l>
+            </lg>
+            <lg>
+               <l>Permetio minha ciencia,</l>
+               <l>que doſe bombas, chupando</l>
+               <l>eſſe rio, deſſa torre</l>
+               <l>proueſſem doſe mil barros</l>
+            </lg>
+            <lg>
+               <l>E conſer ta<g ref="char:cmbAbbrStroke">̄</g>o alta a torre</l>
+               <l>que paſſa as nuuens em claro,</l>
+               <l>ſete cavallos ſomente</l>
+               <l>as aguas poem no mais alto.</l>
+            </lg>
+            <lg>
+               <l>Muito diſera, porem</l>
+               <l>tenho de Londres agravos,</l>
+               <l>pois deſſa breve corrente</l>
+               <l>intenta tomarme o paſſo</l>
+            </lg>
+            <lg>
+               <l>Con hu<g ref="char:cmbAbbrStroke">̄</g>a ponte me oprime</l>
+               <l>de tal ſorte, que bailando</l>
+               <l>minhas ondas, dançadeiras</l>
+               <l>ſao<g ref="char:cmbAbbrStroke">̄</g>, debaixo dos ſeus arcos</l>
+            </lg>
+            <lg>
+               <l>Porem eu nao<g ref="char:cmbAbbrStroke">̄</g> me eſquecendo</l>
+               <l>de termos tao<g ref="char:cmbAbbrStroke">̄</g> deshumanos</l>
+               <l>ſou deſimeiro do pouo</l>
+               <l>enao<g ref="char:cmbAbbrStroke">̄</g> perco no contrato</l>
+            </lg>
+            <lg>
+               <l>Mormente no duro Inuerno</l>
+               <l>tanto co<g ref="char:cmbAbbrStroke">̄</g> elles me humano</l>
+               <l>que dançando ſobre mi,</l>
+               <l>qualquer ſol mos lança abaixo</l>
+            </lg>
+            <lg>
+               <l>Na<g ref="char:cmbAbbrStroke">̄</g>o vos pareça vingança;</l>
+               <l>ſebem nôs outros ſoldados</l>
+               <l>quebramos de noſſos brios</l>
+               <l>ſe acaſo nos na<g ref="char:cmbAbbrStroke">̄</g>o vingamos</l>
+            </lg>
+            <lg>
+               <l>Epor quanto aminha gente</l>
+               <l>tem voſsos reinos cercado,</l>
+               <l>dai licença que lhe aſiſta</l>
+               <l>elargue a Saturno o campo.</l>
+            </lg>
+            <lg>
+               <l>Entrou Saturno ta<g ref="char:cmbAbbrStroke">̄</g>o triſte</l>
+               <l>como que vinha forçado,</l>
+               <l>epor ſer pouco corrente</l>
+               <l>fallou deſta ſorte (ebrando)</l>
+            </lg>
+            <lg>
+               <l>Bem contra vontade venho</l>
+               <l>adesluſir triunfo tanto</l>
+               <l>que eſtar emfeſtas Saturno</l>
+               <l>na<g ref="char:cmbAbbrStroke">̄</g>o deixa dedar enfado</l>
+            </lg>
+            <lg>
+               <l>Mas ja que o ſemblante he triſte,</l>
+               <l>quero fallar mascarado,</l>
+               <l>valhame quem tem dous roſtos</l>
+               <l>mas que os tire dos ſapatos</l>
+            </lg>
+            <lg>
+               <l>Valleime ſenhora Londres</l>
+               <l>pois ſem ſer dia de Mayo</l>
+               <l>pondes mil roſtros aodia</l>
+               <l>etodos bem a ſombrados</l>
+            </lg>
+            <lg>
+               <l>Con tantas ſombras que apenas</l>
+               <l>ſedeviſa omenor rayo</l>
+               <l>de Apollo, que ja queixoſo</l>
+               <l>deu noticias de enejado</l>
+            </lg>
+            <lg>
+               <l>Sabey (Monarchas fellices)</l>
+               <l>que eſtes ares governando,</l>
+               <l>por grandeſa da pintura</l>
+               <l>permitolhe poucos claros</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:47464:6"/>
+               <l>Tem Londres tantas belleſas</l>
+               <l>que ſegundo he namorado</l>
+               <l>Apollo, ſe acaſo as vira</l>
+               <l>perdera oligeiro paſſo</l>
+            </lg>
+            <lg>
+               <l>Aqualquer madama Ingleſa</l>
+               <l>conuertera em tronco, e tanto</l>
+               <l>que (ſem liſonja) aueria</l>
+               <l>Daphanes acada canto</l>
+            </lg>
+            <lg>
+               <l>De uerao<g ref="char:cmbAbbrStroke">̄</g> choue ehe juſto</l>
+               <l>porque opô na<g ref="char:cmbAbbrStroke">̄</g>o ſeja ouſado</l>
+               <l>a profauar os a linhos</l>
+               <l>detantos roſtros neuados</l>
+            </lg>
+            <lg>
+               <l>De Inuerno neua ehe pio,</l>
+               <l>porque ue ja o ſol dourado</l>
+               <l>que eſtes ſoes desfaſem neues</l>
+               <l>e podem mais que ſeus rayos</l>
+            </lg>
+            <lg>
+               <l>Nao<g ref="char:cmbAbbrStroke">̄</g> poſſo diſeruos mais</l>
+               <l>baſte de maſcara, e em tanto</l>
+               <l>venha Mercurio, que eſpera</l>
+               <l>poſto he proprio do ſeu trato</l>
+            </lg>
+            <lg>
+               <l>Mercurio ſem tirar ollios</l>
+               <l>dos diamantes do toucado</l>
+               <l>o papel lhe hia eſquecendo</l>
+               <l>ediſſe (quaſi turbado)</l>
+            </lg>
+            <lg>
+               <l>Mercurio ſou (Reis ſupremos)</l>
+               <l>ſenhor de todo o contrato,</l>
+               <l>eſem trato fallarey</l>
+               <l>toda a verdade do caſo</l>
+            </lg>
+            <lg>
+               <l>Senao<g ref="char:cmbAbbrStroke">̄</g> for caſo dativo</l>
+               <l>que he contra oque profeçamos</l>
+               <l>os hirmaons deſte pais</l>
+               <l>que jubilao<g ref="char:cmbAbbrStroke">̄</g> de prelados</l>
+            </lg>
+            <lg>
+               <l>E como contratao<g ref="char:cmbAbbrStroke">̄</g> todos</l>
+               <l>todos tenho por vaſſallos,</l>
+               <l>perdoe uoſſa grandeſa</l>
+               <l>ſe em diſer iſto a profano;</l>
+            </lg>
+            <lg>
+               <l>Tem a cidade des milhas,</l>
+               <l>edo principio the ocabo,</l>
+               <l>nao<g ref="char:cmbAbbrStroke">̄</g> tem mais que mercadores</l>
+               <l>oque ſobra dos Pallacios</l>
+            </lg>
+            <lg>
+               <l>Tem por debaixo do chao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>outra Cidade, por quanto</l>
+               <l>as ſerueyas ſe conſeruao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>mais nos baixos, que nos altos;</l>
+            </lg>
+            <lg>
+               <l>Porem todo uos entrego</l>
+               <l>pedindouos debarato,</l>
+               <l>que conhecendo os effeitos.</l>
+               <l>admitais affectos tantos</l>
+            </lg>
+            <lg>
+               <l>Seja o contrato primeiro</l>
+               <l>o Parlamento, eſenado,</l>
+               <l>que he mercancia o poder</l>
+               <l>quandohe ley, ſerbem mandado</l>
+            </lg>
+            <lg>
+               <l>Fallemos con reuerencia</l>
+               <l>nos que buſcao<g ref="char:cmbAbbrStroke">̄</g> por ſagrado</l>
+               <l>(tal ves por mais mercancia)</l>
+               <l>a ſombra deſte Pallacio</l>
+            </lg>
+            <lg>
+               <l>Os coches cuja contia</l>
+               <l>(por nao<g ref="char:cmbAbbrStroke">̄</g> ſer demaſiado)</l>
+               <l>afirmarey ſao<g ref="char:cmbAbbrStroke">̄</g> tres mil,</l>
+               <l>e todos adous cauallos</l>
+            </lg>
+            <lg>
+               <l>As cadeiras sao<g ref="char:cmbAbbrStroke">̄</g> duſentas</l>
+               <l>pouco mais (ſenao<g ref="char:cmbAbbrStroke">̄</g> me engano)</l>
+               <l>que goſtao<g ref="char:cmbAbbrStroke">̄</g> poucos de ler</l>
+               <l>cadeira de poucos ganhos</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:47464:6"/>
+               <l>Vamos paſſando do Ectal</l>
+               <l>que temos que dar mais paſſos,</l>
+               <l>poſto ſeja amercancia</l>
+               <l>muy veſinha do deſcanço</l>
+            </lg>
+            <lg>
+               <l>Em xelincras tao<g ref="char:cmbAbbrStroke">̄</g> bem tenho</l>
+               <l>outra caſta de contrato,</l>
+               <l>titris, enganando os olhos</l>
+               <l>quando as boças deſenganao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+            </lg>
+            <lg>
+               <l>A bolça nova cheguemos</l>
+               <l>donde oſol antes de nado</l>
+               <l>ſeuende, tirando as brancas</l>
+               <l>das bolças que tem mais annos</l>
+            </lg>
+            <lg>
+               <l>Alli as Ingleſas to das</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> meyas Ingleſas chamao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>eſtoquenes veregut</l>
+               <l>proſer meya co<g ref="char:cmbAbbrStroke">̄</g> reclamo</l>
+            </lg>
+            <lg>
+               <l>Vendendouos mil carinhos</l>
+               <l>uos pegao<g ref="char:cmbAbbrStroke">̄</g> tal ues no braço</l>
+               <l>eſem vos dar couſa algua<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>uos tentao<g ref="char:cmbAbbrStroke">̄</g> como diabo</l>
+            </lg>
+            <lg>
+               <l>Alli moſtrao<g ref="char:cmbAbbrStroke">̄</g> toda ameya</l>
+               <l>toda a fita, todo o laço</l>
+               <l>e certo que na<g ref="char:cmbAbbrStroke">̄</g>o he muito</l>
+               <l>ſendo Ingleſas moſtrar tanto</l>
+            </lg>
+            <lg>
+               <l>Em comum jardin ha outro</l>
+               <l>que tem mil enguentos varios</l>
+               <l>e por ter pe de vender</l>
+               <l>fas ligeireſas de manos</l>
+            </lg>
+            <lg>
+               <l>Vamos âs portas de Londres</l>
+               <l>donde huns hâ que mata<g ref="char:cmbAbbrStroke">̄</g>o ratos</l>
+               <l>eaquem lhe pinga abandeira</l>
+               <l>ſeruem de gatos pingados</l>
+            </lg>
+            <lg>
+               <l>Paſſemos mais adiante</l>
+               <l>veremos porteiros tantos,</l>
+               <l>que cerrando a portas â perda</l>
+               <l>atem ſempre a berta aoganho,</l>
+            </lg>
+            <lg>
+               <l>Andao<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g> aluas veſtidas</l>
+               <l>ealgu<g ref="char:cmbAbbrStroke">̄</g>as cordas no braço,</l>
+               <l>ſendo verdugos da bolça</l>
+               <l>faſem papel de enforcado</l>
+            </lg>
+            <lg>
+               <l>He tal onegocio deſtes</l>
+               <l>que ſe con cartas osmandao<g ref="char:cmbAbbrStroke">̄</g>,</l>
+               <l>leua<g ref="char:cmbAbbrStroke">̄</g>o papel pena, etinta</l>
+               <l>por traſer logo odeſpacho</l>
+            </lg>
+            <lg>
+               <l>Se falta donde ſe eſcreua,</l>
+               <l>vira<g ref="char:cmbAbbrStroke">̄</g>o como mal caſados</l>
+               <l>faſendo as conſtas bufete</l>
+               <l>edos giolhos deſcanço</l>
+            </lg>
+            <lg>
+               <l>Paſſemos aos mercadores</l>
+               <l>que cada tenda he hu<g ref="char:cmbAbbrStroke">̄</g> pasmo,</l>
+               <l>pois oa dorno que tem</l>
+               <l>ſe uende junto co<g ref="char:cmbAbbrStroke">̄</g> opano</l>
+            </lg>
+            <lg>
+               <l>Ali ſeuendem perucas,</l>
+               <l>eſpadins, cadeiras, panos,</l>
+               <l>camas, baûs, armaçoens.</l>
+               <l>louça de uidro, ede barro</l>
+            </lg>
+            <lg>
+               <l>Logo adiante os liureiros</l>
+               <l>uendendo mil liuros uarios,</l>
+               <l>o fonileiro, opintor</l>
+               <l>eoque fas louça de eſtanho</l>
+            </lg>
+            <lg>
+               <l>Que uos direi de loulen</l>
+               <l>uendendo ſempre ecomprando</l>
+               <l>ali panos, eueſtidos</l>
+               <l>aqui neſtidos de pano</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:47464:7"/>
+               <l>Mais abaixo oſombreireiro</l>
+               <l>donde o caſtor ſoberano</l>
+               <l>ſedâ aqualquer pobreſinho</l>
+               <l>ſeleua conque comprallo</l>
+            </lg>
+            <lg>
+               <l>Os ouriues de uoro eprata,</l>
+               <l>gente de cabedal tanto</l>
+               <l> vendem dinheiro ecomprao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>de quais quer reinos eſtranhos,</l>
+            </lg>
+            <lg>
+               <l>Cheguemos â bolça velha</l>
+               <l>donde os homens de contrato</l>
+               <l>faſem junta ao meyo dia</l>
+               <l>ſobre nao<g ref="char:cmbAbbrStroke">̄</g> comer bocado</l>
+            </lg>
+            <lg>
+               <l>Em hu<g ref="char:cmbAbbrStroke">̄</g> clauſtro mageſtoſo,</l>
+               <l>que eſtâ to do rodeado</l>
+               <l>dos voſſos anteceſſores</l>
+               <l>the vos ſegundo Rey Carlos</l>
+            </lg>
+            <lg>
+               <l>Equando hu<g ref="char:cmbAbbrStroke">̄</g> ſigno ſe toca</l>
+               <l>acode to do ocontrato,</l>
+               <l>deixando para amerenda</l>
+               <l>as deuaçoens do Deos Baco</l>
+            </lg>
+            <lg>
+               <l>Tambem aqui neſte ſitio</l>
+               <l>ſe vende tudo, enao<g ref="char:cmbAbbrStroke">̄</g> caro,</l>
+               <l>voltas, facas, rendas, pentens,</l>
+               <l>eſpelhos, brincos, regallos</l>
+            </lg>
+            <lg>
+               <l>Hora emfim, tudo he negocio</l>
+               <l>(neſta cidade) econtrato,</l>
+               <l>o atarman pello rio,</l>
+               <l>o cohiman pelo prado,</l>
+            </lg>
+            <lg>
+               <l>As miſtris nos apoſentos,</l>
+               <l>os ſoldados pellos cantos,</l>
+               <l>os bues co<g ref="char:cmbAbbrStroke">̄</g> faya de noite,</l>
+               <l>de dia as damas co<g ref="char:cmbAbbrStroke">̄</g> garbos</l>
+            </lg>
+            <lg>
+               <l>The onao<g ref="char:cmbAbbrStroke">̄</g> traſer eſpada</l>
+               <l>he mercancia, horque achao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>que omurro dâ mais de ſi</l>
+               <l>ea eſpada nao<g ref="char:cmbAbbrStroke">̄</g> dâ tanto</l>
+            </lg>
+            <lg>
+               <l>Aquelle que perde auida</l>
+               <l>nao<g ref="char:cmbAbbrStroke">̄</g> veſte mais otro fato,</l>
+               <l>nem paga acura ao barbeiro,</l>
+               <l>nem bebe mais quatro tragos,</l>
+            </lg>
+            <lg>
+               <l>Agora mehia metendo</l>
+               <l>na judiçao<g ref="char:cmbAbbrStroke">̄</g> do Deos Baco,</l>
+               <l>epois elle eſtâ preſente</l>
+               <l>faça papel de engraçado.</l>
+            </lg>
+            <lg>
+               <l>Entrou Baco bem diſpoſto,</l>
+               <l>mas da quêda manquejando,</l>
+               <l>os olhos, eas cores viuas</l>
+               <l>eo ſallar aſim (cançado)</l>
+            </lg>
+            <lg>
+               <l>Diſem ſenhor que ſou bobo</l>
+               <l>quando eu deſde que ſou nado</l>
+               <l>ſou bebo, conforme ouui</l>
+               <l>perto hâ de quatro milannos</l>
+            </lg>
+            <lg>
+               <l>Naci de pois do deluuio</l>
+               <l>muito concho, ou muito cacho,</l>
+               <l>junto a caſtello de vide,</l>
+               <l>diſem que dentro de hu<g ref="char:cmbAbbrStroke">̄</g> quarto</l>
+            </lg>
+            <lg>
+               <l>Foy hu<g ref="char:cmbAbbrStroke">̄</g> parto milagroſo</l>
+               <l>porque anao<g ref="char:cmbAbbrStroke">̄</g> chegar hu<g ref="char:cmbAbbrStroke">̄</g> bago</l>
+               <l>que em caſtella he muy de vino</l>
+               <l>nao<g ref="char:cmbAbbrStroke">̄</g> ſey ſe ouuera Deos Baco</l>
+            </lg>
+            <lg>
+               <l>Em fim ſou Baco, ſenhor</l>
+               <l>deſte voſſo pouo honrrado,</l>
+               <l>de quem ſois Reis muy fellices</l>
+               <l>euos logreis muitos annos</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:47464:7"/>
+               <l>Senhor ſou de todo omundo,</l>
+               <l>eno Norte, coroado</l>
+               <l>por Emperador, co<g ref="char:cmbAbbrStroke">̄</g> louro</l>
+               <l>ou qualquer caſta de ramo</l>
+            </lg>
+            <lg>
+               <l>Aqui gouerno eſta gente</l>
+               <l>ſendo ſeu meſtre de paſto</l>
+               <l>caualleiro de hu<g ref="char:cmbAbbrStroke">̄</g> tonel</l>
+               <l>toco apipa de tabaco</l>
+            </lg>
+            <lg>
+               <l>Deime aleuar boa vida</l>
+               <l>porque eſtes tempos cançados</l>
+               <l>inda contragos tao<g ref="char:cmbAbbrStroke">̄</g> bons</l>
+               <l>ſao<g ref="char:cmbAbbrStroke">̄</g> muy maos para tragados</l>
+            </lg>
+            <lg>
+               <l>Aqui neſta que opulenta</l>
+               <l>omundo dedica paſmos,</l>
+               <l>me tributao<g ref="char:cmbAbbrStroke">̄</g> cada dia</l>
+               <l>hu<g ref="char:cmbAbbrStroke">̄</g> robicundo Oceano</l>
+            </lg>
+            <lg>
+               <l>Nao<g ref="char:cmbAbbrStroke">̄</g> quero diſer mar roxo,</l>
+               <l>porqueha diuerſos regatos</l>
+               <l>que ſe faſem demil cores</l>
+               <l>ſe caſo me ue<g ref="char:cmbAbbrStroke">̄</g> no campo</l>
+            </lg>
+            <lg>
+               <l>Aqui me agaſalhao<g ref="char:cmbAbbrStroke">̄</g> todos,</l>
+               <l>ecerto lhe a grado tanto,</l>
+               <l>que lhe gouerno as faſendas</l>
+               <l>(quero diſer) lhas eſtrago</l>
+            </lg>
+            <lg>
+               <l>Por Pallacio comecemos,</l>
+               <l>ſupoſto aqui nos achamos</l>
+               <l>que con licença de bobo</l>
+               <l>bebo co<g ref="char:cmbAbbrStroke">̄</g> todos, etrato</l>
+            </lg>
+            <lg>
+               <l>Como ſenhor da coſinha</l>
+               <l>quero contaruos oſpratos</l>
+               <l>que contar iſto he gran deſa</l>
+               <l>como os bocados a grauo</l>
+            </lg>
+            <lg>
+               <l>Cem pratos hapara vos,</l>
+               <l>treſentos para fidalgos,</l>
+               <l>tres veſes ſe cobre ameſa</l>
+               <l>de iguarias, eregallos,</l>
+            </lg>
+            <lg>
+               <l>Trinta etantos compradores</l>
+               <l>tendes (raro goſto, egaſto)</l>
+               <l>ha Rey co<g ref="char:cmbAbbrStroke">̄</g> tanta grandeſa?</l>
+               <l>ha ſenhor que tenha tanto?</l>
+            </lg>
+            <lg>
+               <l>Paſsemos âs hoſtearias,</l>
+               <l>ſebem todo onorte he paſto,</l>
+               <l>ſahindo como carneiros</l>
+               <l>os que goſtao<g ref="char:cmbAbbrStroke">̄</g> do montado</l>
+            </lg>
+            <lg>
+               <l>Toda a rua, he hu<g ref="char:cmbAbbrStroke">̄</g> açougue</l>
+               <l>donde ſeuende, oveado,</l>
+               <l>perdis, coelho, gallinhas,</l>
+               <l>vitellas, pombos, eganços</l>
+            </lg>
+            <lg>
+               <l>E faſendo aſuma junta</l>
+               <l>gaſta Londres todo oanno</l>
+               <l>cada dia, mil vitellas,</l>
+               <l>ſeis mil vacas, dous mil patos</l>
+            </lg>
+            <lg>
+               <l>Junto â cidade, ſeuê</l>
+               <l>andar mil reſes paſtando,</l>
+               <l>que ſem ſer encarecido</l>
+               <l>nada he campo, tudo he gado</l>
+            </lg>
+            <lg>
+               <l>Pode auer mayor grandeſa</l>
+               <l>que entrar em hu<g ref="char:cmbAbbrStroke">̄</g> ordinario</l>
+               <l>mil homens (ealguns depoſto)</l>
+               <l>comerem todos apaſto</l>
+            </lg>
+            <lg>
+               <l>Ha couſa come traſe</l>
+               <l>a miſtris, co<g ref="char:cmbAbbrStroke">̄</g> mil agrados</l>
+               <l>em hua<g ref="char:cmbAbbrStroke">̄</g> mao<g ref="char:cmbAbbrStroke">̄</g> ocoſido,</l>
+               <l>em outra mao<g ref="char:cmbAbbrStroke">̄</g> oaſado</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:47464:8"/>
+               <l>Pondes o trincho diante</l>
+               <l>andais co<g ref="char:cmbAbbrStroke">̄</g> o naife cortando,</l>
+               <l>aqui, oxis precioſo</l>
+               <l>alli, obret ſoberano</l>
+            </lg>
+            <lg>
+               <l>Depois os âpeles ricos</l>
+               <l>em algu<g ref="char:cmbAbbrStroke">̄</g> tempo vedados,</l>
+               <l>ſobre elles trinque do en</l>
+               <l>depois cachimbo etabaco</l>
+            </lg>
+            <lg>
+               <l>Perguntais quanto deueis</l>
+               <l>dis amiſtris co<g ref="char:cmbAbbrStroke">̄</g> deſcanço</l>
+               <l>guîme tri xilin no mor</l>
+               <l>ebrindauos como hu<g ref="char:cmbAbbrStroke">̄</g> rayo</l>
+            </lg>
+            <lg>
+               <l>Chegais a lucaſinfilis</l>
+               <l>ô morfilis, lindos prados</l>
+               <l>eſte de aruores ſombrio</l>
+               <l>aquelle de luſes claro</l>
+            </lg>
+            <lg>
+               <l>Topais carroças de damas</l>
+               <l>ſtê cochima<g ref="char:cmbAbbrStroke">̄</g> pâra, equando</l>
+               <l>uos nao<g ref="char:cmbAbbrStroke">̄</g> precatais, jatendes</l>
+               <l>na voſſa carroça quatro</l>
+            </lg>
+            <lg>
+               <l>Entrais em hua<g ref="char:cmbAbbrStroke">̄</g> hoſtearia</l>
+               <l>toca o orgao<g ref="char:cmbAbbrStroke">̄</g>, tange ocrauo</l>
+               <l>oſalteiro, as rabequinhas,</l>
+               <l>auda obogio bailando</l>
+            </lg>
+            <lg>
+               <l>Sobis para hua<g ref="char:cmbAbbrStroke">̄</g> tribuna</l>
+               <l>vem logo queques biſarros,</l>
+               <l>aſucar para aſerueja</l>
+               <l>epara oſaque, cuidado</l>
+            </lg>
+            <lg>
+               <l>Saem danças ao terreiro</l>
+               <l>egentilman faslhe ogaſto</l>
+               <l>traſendo abolça vaſia</l>
+               <l>e o ſemblante carregado</l>
+            </lg>
+            <lg>
+               <l>Ha uida como eſta frandula?</l>
+               <l>trate Apollo dos ſeus bartolos,</l>
+               <l>Marte ſomente de exercitos,</l>
+               <l>Neptuno deſer hu<g ref="char:cmbAbbrStroke">̄</g> Tantalo,</l>
+            </lg>
+            <lg>
+               <l>Saturno deſer mais florido,</l>
+               <l>Mercurio ſo do ſeu trafego,</l>
+               <l>eu de acabar co<g ref="char:cmbAbbrStroke">̄</g> aſdrugulos,</l>
+               <l>vos de perdoar magnanimos.</l>
+            </lg>
+            <lg>
+               <l>Acabouſe co<g ref="char:cmbAbbrStroke">̄</g> tal riſo</l>
+               <l>eco<g ref="char:cmbAbbrStroke">̄</g> tao<g ref="char:cmbAbbrStroke">̄</g> grandes aplauſos,</l>
+               <l>que ſomente co<g ref="char:cmbAbbrStroke">̄</g> dous reis</l>
+               <l>o Poeta ficou pago</l>
+            </lg>
+            <lg>
+               <l>Sebem nao<g ref="char:cmbAbbrStroke">̄</g> faltou quem diſſe</l>
+               <l>que andara demaſiado</l>
+               <l>porque donde os Reys aſiſtem</l>
+               <l>lie ojocoſo profano</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:47464:8"/>
+               <l>Porem deſcreuer verda des</l>
+               <l>ja mais pode ſer agrauo,</l>
+               <l>emais quando obaile teue</l>
+               <l>tanto de liſongeado;</l>
+            </lg>
+            <lg>
+               <l>Neſte meſmo tempo Febo</l>
+               <l>tinha acarreira acabado,</l>
+               <l>e entraua poſto â gineta</l>
+               <l>pellas portas do Ocaſo</l>
+            </lg>
+            <lg>
+               <l>Amanheceo breuemente</l>
+               <l>porque veyo disfarçado,</l>
+               <l>tirar ſegunda licença</l>
+               <l>para correr outro tanto</l>
+            </lg>
+            <lg>
+               <l>Derao<g ref="char:cmbAbbrStroke">̄</g> lhe alicença logo,</l>
+               <l>eſahio muito biſarro</l>
+               <l>feito percurſſor das luſes</l>
+               <l>que deciao<g ref="char:cmbAbbrStroke">̄</g> de Pallacio</l>
+            </lg>
+            <lg>
+               <l>Eſtauao<g ref="char:cmbAbbrStroke">̄</g> no Parche os coches</l>
+               <l>ea ſoldadeſca eſperando</l>
+               <l>que ſahiſſe abella aurora</l>
+               <l>aferteliſar os campos</l>
+            </lg>
+            <lg>
+               <l>Fes Ocaſo da carroça</l>
+               <l>mas nao<g ref="char:cmbAbbrStroke">̄</g> encobrio ſeus rayos,</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> que deſpertou as flores,</l>
+               <l>que inda eſtauao<g ref="char:cmbAbbrStroke">̄</g> repouſando</l>
+            </lg>
+            <lg>
+               <l>Foy junto ao tanque a carroça,</l>
+               <l>e a figura de alabaſtro,</l>
+               <l>porſer aluo dos ſeus tiros</l>
+               <l>ficou negra dos ſeus rayos</l>
+            </lg>
+            <lg>
+               <l>As aues que otanque tinha</l>
+               <l>todas herao<g ref="char:cmbAbbrStroke">̄</g> Pellicanos,</l>
+               <l>porque abrindo opeito todas</l>
+               <l>the o coraçao<g ref="char:cmbAbbrStroke">̄</g> lhe dauao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Deu volta pello paſſeyo</l>
+               <l>dando carreira os cavallos</l>
+               <l>eganharao<g ref="char:cmbAbbrStroke">̄</g> ſua apoſta</l>
+               <l>por  otomarao<g ref="char:cmbAbbrStroke">̄</g> de quatro</l>
+            </lg>
+            <lg>
+               <l>Cantauao<g ref="char:cmbAbbrStroke">̄</g>lhe os paſsarinhos</l>
+               <l>dos ramos dependurados</l>
+               <l>porque uiao<g ref="char:cmbAbbrStroke">̄</g> que tao<g ref="char:cmbAbbrStroke">̄</g> perto</l>
+               <l>eſtaua a Paſchoa dos ramos</l>
+            </lg>
+            <lg>
+               <l>Andauao<g ref="char:cmbAbbrStroke">̄</g> todas as corças</l>
+               <l>a corço degoſtos tantos,</l>
+               <l>que donde falta odeſcurſso</l>
+               <l>talues ſobra onamorado</l>
+            </lg>
+            <lg>
+               <l>Os grous fugindo das luſes</l>
+               <l>forao<g ref="char:cmbAbbrStroke">̄</g> porſse no eſtrolabio</l>
+               <l>(ſegonhas emfim) que em Febo</l>
+               <l>ſe amparao<g ref="char:cmbAbbrStroke">̄</g> deſtoutros rayos</l>
+            </lg>
+            <lg>
+               <l>Chegou a ſao<g ref="char:cmbAbbrStroke">̄</g> Jaymes, donde</l>
+               <l>eſtaua tudo eſperando,</l>
+               <l>por que a Capella; das flores</l>
+               <l>aprendeo odeſuellado</l>
+            </lg>
+            <lg>
+               <l>Os religioſos bentos</l>
+               <l>ocuparao<g ref="char:cmbAbbrStroke">̄</g> hu<g ref="char:cmbAbbrStroke">̄</g> dos lados,</l>
+               <l>os ſeus pregadores outro,</l>
+               <l>eos cappellaens celebrarao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Sahio logo a miſsa noua</l>
+               <l>no nouo templo ſagrado,</l>
+               <l>dia daquelle pintor</l>
+               <l>que tambem foy publicano</l>
+            </lg>
+            <lg>
+               <l>Fiſerao<g ref="char:cmbAbbrStroke">̄</g>ſse vilhancicos,</l>
+               <l>pregou deuoto o Roſario,</l>
+               <l>que he da predica a coroa</l>
+               <l>do terço meſtre de campo</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="tcp:47464:9"/>
+               <l>Acabouſse amiſsa, etodos</l>
+               <l>como he cuſtume, beijara<g ref="char:cmbAbbrStroke">̄</g>o</l>
+               <l>ama<g ref="char:cmbAbbrStroke">̄</g>o da quelle jacob</l>
+               <l>que andou ja co<g ref="char:cmbAbbrStroke">̄</g> Deos abraços</l>
+            </lg>
+            <lg>
+               <l>Adevaçao<g ref="char:cmbAbbrStroke">̄</g> da Cappella</l>
+               <l>ſomente motiva paſmos,</l>
+               <l>enas pregaçoens aſiſte</l>
+               <l>omeſmo ſpirito ſancto</l>
+            </lg>
+            <lg>
+               <l>Pregaſse em diverſsas linguas,</l>
+               <l>co<g ref="char:cmbAbbrStroke">̄</g> que os coraçoens ſeabraſa<g ref="char:cmbAbbrStroke">̄</g>o</l>
+               <l>e como he fogo devino</l>
+               <l>penetra deſimulando</l>
+            </lg>
+            <lg>
+               <l>O primeiro de Novembro</l>
+               <l>dia de todos os ſanctos,</l>
+               <l>fes pontifical hu<g ref="char:cmbAbbrStroke">̄</g> Biſpo</l>
+               <l>eo dia foj celebrado</l>
+            </lg>
+            <lg>
+               <l>Ouue ordenados de novo</l>
+               <l>antes de auer ordenados,</l>
+               <l>que odar antes hegrandeſa,</l>
+               <l>eodar depois he cuidado</l>
+            </lg>
+            <lg>
+               <l>Dia da ſancta Doctora</l>
+               <l>fes a Mageſtade annos,</l>
+               <l>eos feſtejou muito o pouo</l>
+               <l>porque os quer eterniſados</l>
+            </lg>
+            <lg>
+               <l>Ouue em Londres tantos fogos</l>
+               <l>que o Inverno envergonhado</l>
+               <l>foj dormir ao campo; e veyo</l>
+               <l>madrugador, eneuado</l>
+            </lg>
+            <lg>
+               <l>Atodos fitas a zuis</l>
+               <l>ſederao<g ref="char:cmbAbbrStroke">̄</g>, mas em Pallacio,</l>
+               <l>faſendo galla das fitas</l>
+               <l>gallas das fitas lançarao<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+            </lg>
+            <lg>
+               <l>A feſta de Navidad</l>
+               <l>ſe fes co<g ref="char:cmbAbbrStroke">̄</g> aſeyo raro</l>
+               <l>no graue dos villancicos</l>
+               <l>no deuoto do cantado</l>
+            </lg>
+            <lg>
+               <l>E entre jubilos de glorias</l>
+               <l>o coraçao<g ref="char:cmbAbbrStroke">̄</g> mais profano,</l>
+               <l>ſetornou a rependido</l>
+               <l>antes de cantar o gallo</l>
+            </lg>
+            <lg>
+               <l>Aſeſtio vinte equatro horas</l>
+               <l>na tribuna, aquelle raro</l>
+               <l>exemplo da formoſura</l>
+               <l>do mageſtoſo edo ſancto</l>
+            </lg>
+            <lg>
+               <l>Foy para Pallacio etodos</l>
+               <l>a real mao<g ref="char:cmbAbbrStroke">̄</g> lhe beyarao<g ref="char:cmbAbbrStroke">̄</g>,</l>
+               <l>que conçoada de arminhos</l>
+               <l>eque doces tao<g ref="char:cmbAbbrStroke">̄</g> neuados</l>
+            </lg>
+            <lg>
+               <l>Epois fica amageſtade</l>
+               <l>dodeſuello deſcançando,</l>
+               <l>e nos tem dado licença</l>
+               <l>para dar fim a eſtequadro</l>
+            </lg>
+            <lg>
+               <l>Acabemos apintura,</l>
+               <l>largueſſe hu<g ref="char:cmbAbbrStroke">̄</g> eoutro pano,</l>
+               <l>que eſpera a patria, ehe juſto</l>
+               <l>ſenao<g ref="char:cmbAbbrStroke">̄</g> perca oque ual tanto</l>
+            </lg>
+            <trailer>Finis laus Deo.</trailer>
+            <pb facs="tcp:47464:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
